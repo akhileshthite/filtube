@@ -18,6 +18,7 @@ FilTube uploads the video files to [IPFS](https://ipfs.tech/) by using [web3.sto
 ### ⛓ Deployed contract on FEVM:
 - Contract address: https://explorer.glif.io/address/0xb48c947d9e6a38bbb64823De5F79a16d48D3d3a8/?network=wallabynet
 - Successfully deployed txn hash: https://explorer.glif.io/wallaby/tx/0x4dc6b176f08ac9e36345c59e02898f7c559e73afb9cc90b0e5222b75d3111f59/ 
+- Solidity code: https://github.com/akhileshthite/filtube/blob/main/src/contracts/FilTube.sol
 
 ### 📦 Web3.storage:
 - https://github.com/akhileshthite/filtube/blob/fc161d3c053f8791dd749d631d48a7df7417facf/src/components/App.js#L197
